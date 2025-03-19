@@ -10,7 +10,20 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "id": "1bb92827-917b-4e82-a4f2-6fb16bef4baf",
+      "name": "AwesomeApp",
+      "publisher": "ChrisBlankDe",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "014b0acf-82c9-49b7-a093-1f95b3523ef6",
+      "name": "BwesomeApp",
+      "publisher": "ChrisBlankDe",
+      "version": "1.0.0.0"
+      }
+  ],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "22.0.0.0",
