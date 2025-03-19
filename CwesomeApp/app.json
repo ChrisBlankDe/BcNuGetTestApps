@@ -2,7 +2,7 @@
   "id": "c0cb8fe5-3156-48ac-b9c6-faf116890fac",
   "name": "CwesomeApp",
   "publisher": "ChrisBlankDe",
-  "version": "1.0.0.0",
+  "version": "1.1.0.0",
   "brief": "",
   "description": "",
   "privacyStatement": "",
@@ -15,14 +15,14 @@
       "id": "1bb92827-917b-4e82-a4f2-6fb16bef4baf",
       "name": "AwesomeApp",
       "publisher": "ChrisBlankDe",
-      "version": "1.0.0.0"
+      "version": "1.1.0.0"
     },
     {
       "id": "014b0acf-82c9-49b7-a093-1f95b3523ef6",
       "name": "BwesomeApp",
       "publisher": "ChrisBlankDe",
-      "version": "1.0.0.0"
-      }
+      "version": "1.1.0.0"
+    }
   ],
   "screenshots": [],
   "platform": "1.0.0.0",
