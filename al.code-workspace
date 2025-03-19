@@ -1,10 +1,14 @@
 {
   "folders": [
     {
+
       "path": "AwesomeApp"
     },
     {
       "path": "BwesomeApp"
+    },
+    {
+      "path": "CwesomeApp"
     },
     {
       "path": ".AL-Go"
